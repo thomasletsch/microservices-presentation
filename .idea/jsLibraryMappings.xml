@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="JavaScriptLibraryMappings">
-    <file url="PROJECT" libraries="{Rx, Rx.umd, angular, angular2-all.umd.dev, angular2-polyfills, angular2.dev, es6-shim, jquery, shims_for_IE, system, system-polyfills, typescript}" />
-  </component>
-</project>
