@@ -1,0 +1,4 @@
+include 'hello-service'
+
+rootProject.name = 'step1'
+

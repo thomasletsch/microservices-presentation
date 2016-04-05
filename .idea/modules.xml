@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-service.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-service.iml" group="hello-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-service_main.iml" group="hello-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-service_test.iml" group="hello-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservices-presentation.iml" filepath="$PROJECT_DIR$/.idea/modules/microservices-presentation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1807489797/step1.iml" filepath="$PROJECT_DIR$/.idea/modules/1807489797/step1.iml" />
+    </modules>
+  </component>
+</project>
