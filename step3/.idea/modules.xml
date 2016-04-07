@@ -5,9 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/counter-service/counter-service.iml" filepath="$PROJECT_DIR$/.idea/modules/counter-service/counter-service.iml" group="counter-service" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/counter-service/counter-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/counter-service/counter-service_main.iml" group="counter-service" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/counter-service/counter-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/counter-service/counter-service_test.iml" group="counter-service" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edge-server/edge-server.iml" filepath="$PROJECT_DIR$/.idea/modules/edge-server/edge-server.iml" group="edge-server" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edge-server/edge-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/edge-server/edge-server_main.iml" group="edge-server" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edge-server/edge-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/edge-server/edge-server_test.iml" group="edge-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edge-server.iml" filepath="$PROJECT_DIR$/.idea/modules/edge-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edge-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/edge-server_main.iml" group="edge-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edge-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/edge-server_test.iml" group="edge-server" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-service/hello-service.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-service/hello-service.iml" group="hello-service" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-service/hello-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-service/hello-service_main.iml" group="hello-service" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-service/hello-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-service/hello-service_test.iml" group="hello-service" />

@@ -1,198 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffdcfcb5-e2d5-41d4-bf42-dd18970fb11d" name="Default" comment="">
+    <list default="true" id="ffdcfcb5-e2d5-41d4-bf42-dd18970fb11d" name="Default" comment="Step3: ZUUL working. Hello UI now under /hello to get ZUUL paths correctly mapped.">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../step2/hello-service/run-2.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_autoscaling_1_9_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_core_1_10_30.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_ec2_1_10_30.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_route53_1_9_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_amazonaws_aws_java_sdk_sts_1_9_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_6_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_fge_btf_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_fge_jackson_coreutils_1_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_fge_json_patch_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_fge_msg_simple_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_3_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_18_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_inject_guice_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_archaius_archaius_core_0_7_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_eureka_eureka_client_1_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_eureka_eureka_core_1_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_governator_governator_1_12_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_governator_governator_api_1_12_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_governator_governator_core_1_12_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_hystrix_hystrix_core_1_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_hystrix_hystrix_javanica_1_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_hystrix_hystrix_metrics_event_stream_1_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_netflix_commons_netflix_commons_util_0_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_netflix_commons_netflix_eventbus_0_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_netflix_commons_netflix_statistics_0_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_ribbon_ribbon_2_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_ribbon_ribbon_core_2_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_ribbon_ribbon_eureka_2_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_ribbon_ribbon_httpclient_2_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_ribbon_ribbon_loadbalancer_2_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_ribbon_ribbon_transport_2_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_servo_servo_core_0_10_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_servo_servo_internal_0_10_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_netflix_zuul_zuul_core_1_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jersey_contribs_jersey_apache_client4_1_19_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jersey_jersey_client_1_19_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jersey_jersey_core_1_19_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jersey_jersey_server_1_19_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_sun_jersey_jersey_servlet_1_19_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_thoughtworks_xstream_xstream_1_4_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_collections_commons_collections_3_2_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_configuration_commons_configuration_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_lang_commons_lang_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_buffer_4_0_27_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_codec_4_0_27_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_codec_http_4_0_27_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_common_4_0_27_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_handler_4_0_27_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_transport_4_0_27_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_netty_netty_transport_native_epoll_4_0_27_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava_1_0_14.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxnetty_0_4_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxnetty_contexts_0_4_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxnetty_servo_0_4_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_annotation_javax_annotation_api_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_servlet_javax_servlet_api_3_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_websocket_javax_websocket_api_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_ws_rs_jsr311_api_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_xml_stream_stax_api_1_0_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_8_0_30.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_8_0_30.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_logging_juli_8_0_30.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_8_0_30.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_aspectj_aspectjweaver_1_8_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_atteo_evo_inflector_1_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_jettison_jettison_1_3_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_woodstox_stax2_api_3_1_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_woodstox_woodstox_core_asl_4_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_annotations_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_continuation_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_http_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_io_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_jndi_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_plus_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_security_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_server_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlet_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_servlets_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_util_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_webapp_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_jetty_xml_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_javax_websocket_client_impl_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_javax_websocket_server_impl_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_api_9_2_15_v20160210.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_client_9_2_15_v20160210.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_common_9_2_15_v20160210.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_server_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_eclipse_jetty_websocket_websocket_servlet_9_2_14_v20151106.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_freemarker_freemarker_2_3_23.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hdrhistogram_HdrHistogram_2_1_7.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_hibernate_validator_5_2_2_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_5_0_4.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_commons_5_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_tree_5_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jcl_over_slf4j_1_7_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_jul_to_slf4j_1_7_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_log4j_over_slf4j_1_7_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_13.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_1_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_actuator_1_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_autoconfigure_1_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_1_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_actuator_1_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_data_rest_1_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_freemarker_1_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_jetty_1_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_logging_1_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_1_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_validation_1_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_1_3_2_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_commons_1_1_0_RC2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_context_1_1_0_RC2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_netflix_core_1_1_0_RC1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_netflix_eureka_client_1_1_0_RC1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_netflix_eureka_server_1_1_0_RC1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_starter_1_1_0_RC2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_starter_archaius_1_1_0_RC1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_starter_eureka_1_1_0_RC1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_starter_eureka_server_1_1_0_RC1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_starter_hystrix_1_1_0_RC1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_starter_ribbon_1_1_0_RC1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_cloud_spring_cloud_starter_zuul_1_1_0_RC1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_commons_1_11_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_rest_core_2_4_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_data_spring_data_rest_webmvc_2_4_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_hateoas_spring_hateoas_0_19_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_security_spring_security_crypto_4_0_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_aop_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_beans_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_support_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_core_4_2_4_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_expression_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_tx_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_4_2_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_yaml_snakeyaml_1_16.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__stax_stax_api_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xmlpull_xmlpull_1_1_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__xpp3_xpp3_min_1_1_4c.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/counter-service/counter-service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/counter-service/counter-service_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/counter-service/counter-service_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/edge-server/edge-server.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/edge-server/edge-server_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/edge-server/edge-server_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/hello-service/hello-service.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/hello-service/hello-service_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/hello-service/hello-service_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/microservices.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/service-registry/service-registry.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/service-registry/service-registry_main.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/service-registry/service-registry_test.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edge-server/src/main/java/de/thomasletsch/microservices/EdgeServerApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/edge-server/src/main/resources/application.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hello-service/run-2.sh" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service-registry/settings.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service-registry/src/main/java/de/thomasletsch/microservices/ServiceRegistryApplication.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/service-registry/src/main/resources/application.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/edge-server.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/edge-server_main.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules/edge-server_test.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/edge-server/edge-server.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/edge-server/edge-server_main.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/modules/edge-server/edge-server_test.iml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../step2/counter-service/run.sh" afterPath="$PROJECT_DIR$/../step2/counter-service/run.sh" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../step2/hello-service/run.sh" afterPath="$PROJECT_DIR$/../step2/hello-service/run.sh" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="microservices.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -239,12 +59,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/edge-server/src/main/resources/application.yml">
+      <file leaf-file-name="CounterApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/counter-service/src/main/java/de/thomasletsch/microservices/CounterApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-              <folding />
+            <state relative-caret-position="345">
+              <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -257,6 +79,22 @@
   <component name="GradleLocalSettings">
     <option name="availableProjects">
       <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="edge-server" />
+              <option name="path" value="$PROJECT_DIR$/edge-server" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="edge-server" />
+                <option name="path" value="$PROJECT_DIR$/edge-server" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
         <entry>
           <key>
             <ExternalProjectPojo>
@@ -675,7 +513,7 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by project ':edge-server'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'edge-server'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/edge-server" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
@@ -685,7 +523,7 @@
                 <option name="name" value="buildDependents" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of project ':edge-server'." />
+                <option name="description" value="Displays the sub-projects of root project 'edge-server'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/edge-server" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
@@ -695,14 +533,14 @@
                 <option name="name" value="classes" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all buildscript dependencies declared in project ':edge-server'." />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/edge-server" />
-                <option name="name" value="buildEnvironment" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
                 <option name="description" value="Runs this project as a JVM application" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/edge-server" />
                 <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/edge-server" />
+                <option name="name" value="wrapper" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Assembles test classes." />
@@ -725,7 +563,7 @@
                 <option name="name" value="jar" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of project ':edge-server'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'edge-server'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/edge-server" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
@@ -740,7 +578,7 @@
                 <option name="name" value="processResources" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from project ':edge-server'." />
+                <option name="description" value="Displays the tasks runnable from root project 'edge-server'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/edge-server" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -748,6 +586,11 @@
                 <option name="description" value="Assembles the main distributions" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/edge-server" />
                 <option name="name" value="assembleDist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/edge-server" />
+                <option name="name" value="init" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Runs the unit tests." />
@@ -774,7 +617,7 @@
                 <option name="name" value="compileJava" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in project ':edge-server'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'edge-server'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/edge-server" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -804,7 +647,7 @@
                 <option name="name" value="installApp" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in project ':edge-server'." />
+                <option name="description" value="Displays all dependencies declared in root project 'edge-server'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/edge-server" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
@@ -848,7 +691,7 @@
                 <option name="name" value="distZip" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of project ':edge-server'." />
+                <option name="description" value="Displays the properties of root project 'edge-server'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/edge-server" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
@@ -1679,6 +1522,171 @@
             </ExternalProjectBuildClasspathPojo>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/edge-server">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$/edge-server">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.3.3.RELEASE/3cfe4ebb15362052741ef658d19802322dd301c2/spring-boot-gradle-plugin-1.3.3.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/1.3.3.RELEASE/6311d99b99dfe50ef5b42a2c0eb40b7ade1a135a/spring-boot-gradle-plugin-1.3.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/se.transmode.gradle/gradle-docker/1.2/84dc5319a0252b64b97ebbb5fffb69e47a6b088c/gradle-docker-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/se.transmode.gradle/gradle-docker/1.2/a6725b2384464e7b73da5e866536fdd1c5036c2c/gradle-docker-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.3.3.RELEASE/6ba8e56d4d17ffc51e120fa3cb3657de9940a555/spring-boot-loader-tools-1.3.3.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/1.3.3.RELEASE/9159b2eef91bd8243b63c095621636a6a28f770a/spring-boot-loader-tools-1.3.3.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.5.6.RELEASE/ead850728464fa3eb062e3a6ce54619cc322dc67/dependency-management-plugin-0.5.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/0.5.6.RELEASE/b4833216b1cb83ec4a7476ac164843d976f28b4f/dependency-management-plugin-0.5.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/7ca0efbeb87ca845b5d7a0ac9c21a4b7b95f7b28/guava-17.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.guava/guava/17.0/9c6ef172e8de35fd8d4d8783e4821e57cdef7445/guava-17.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java/0.9.0/215493bf857ff63922d49e6d78fb00dee8d3c24/docker-java-0.9.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.docker-java/docker-java/0.9.0/475d635c24f067e8b0282fb2467704a7140b1780/docker-java-0.9.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.2.5.RELEASE/86b9af475e134ba9f5c3843f33ff3ecd6cf95883/spring-core-4.2.5.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/4.2.5.RELEASE/251207b29f0f38f61e3495a2f7fb053cf1bfe8c/spring-core-4.2.5.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-json-provider/2.3.3/53dcbdbb8bda23b4784b3791d8aaa034ec2a9352/jackson-jaxrs-json-provider-2.3.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-json-provider/2.3.3/92cbd94379d98ce44c6d4cea8b1e3b376bbaf79/jackson-jaxrs-json-provider-2.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-core/1.18/1ec69a283e1271e7df58542bfe0cecae1286aade/jersey-core-1.18-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-core/1.18/b3d0fde341fafdab2318602954218d38727f95cf/jersey-core-1.18.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18/3afe941b84da15295e91b043d21865471420fdf2/jersey-client-1.18-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey/jersey-client/1.18/aa72858f3f6f590e50bcd70932a7800a5a47c0cd/jersey-client-1.18.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey.contribs/jersey-multipart/1.18/4e8377835b9ab5de1eae80587fe69b454136e413/jersey-multipart-1.18-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey.contribs/jersey-multipart/1.18/73702df86c6d185ec98f827561df8fabe1ce2570/jersey-multipart-1.18.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey.contribs/jersey-apache-client4/1.9/6f27ce0186df7eb1e3d5254c267c738101dd7b7d/jersey-apache-client4-1.9-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.sun.jersey.contribs/jersey-apache-client4/1.9/576e505ad4172c7589a7961b29e7d4c1ff15ce0e/jersey-apache-client4-1.9.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.2.5/55d345272944d7e8dace47925336a3764ee0e24b/httpclient-4.2.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient/4.2.5/666e26e76f2e87d84e4f16acb546481ae1b8e9a6/httpclient-4.2.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.5/d843cfe3f25612ba1b11f136e478317c81e47b69/commons-compress-1.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.5/d2bd2c0bd328f1dabdf33e10b6d223ebcbe93343/commons-compress-1.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.6/67313d715fbf0ea4fd0bdb69217fb77f807a8ce5/commons-lang-2.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-lang/commons-lang/2.6/ce1edb914c94ebc388f086c6827e8bdeec71ac2/commons-lang-2.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.3/ba0ce5e28373e2a21f71395e711b961563ff619d/commons-io-2.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-io/commons-io/2.3/cd8d6ffc833cc63c30d712a180f4663d8f55799b/commons-io-2.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-unixsocket/0.3/ec2aad3647d5c9478bbd19ec9ffa368b2132e65/jnr-unixsocket-0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-unixsocket/0.3/ccd6a2ac78d0990ccc731a45ad16226071b9e59/jnr-unixsocket-0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.5/654135274d4c27132ea208a4ec07f344bdb83bcb/slf4j-api-1.7.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/slf4j-api/1.7.5/6b262da268f8ad9eff941b25503a9198f0a0ac93/slf4j-api-1.7.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.5/54ea0c7697271b909ec38b3cd34199f418905fa9/jul-to-slf4j-1.7.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.slf4j/jul-to-slf4j/1.7.5/d2b0f76abde33a62f1dbc19a9da726ffe9a0180e/jul-to-slf4j-1.7.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/ecf26c7507d67782a3bbd148d170b31dfad001aa/commons-logging-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.2/4bfc12adfe4842bf07b657f0369c4cb522955686/commons-logging-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base/2.3.3/e3a94a13064f6085b2f5f24337fc76e5aec2d65c/jackson-jaxrs-base-2.3.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.jaxrs/jackson-jaxrs-base/2.3.3/fd26d46f2fe1e1b2c0a48ecf72994806df4ca2b3/jackson-jaxrs-base-2.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.3.3/7d582e8c2d3f7015f5c22b218d6a232a86f157ef/jackson-core-2.3.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.3.3/7d8c5d79cc99995e21e6f955857312d8409f02a1/jackson-core-2.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.3.3/24d14caf77d96de6e2265c75137fad96b1990331/jackson-databind-2.3.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.3.3/63b77400b5f1cf83a81823562c48d3120ef5518e/jackson-databind-2.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-jaxb-annotations/2.3.3/b98a547f96ed1ff0ce6b9bd5d9a9c6b26971a7a1/jackson-module-jaxb-annotations-2.3.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.module/jackson-module-jaxb-annotations/2.3.3/9dd2d0e5506417020b4541104a30d600f43727c1/jackson-module-jaxb-annotations-2.3.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.mimepull/mimepull/1.9.3/8abb9e0b24317725c51ac905d1face261054fceb/mimepull-1.9.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jvnet.mimepull/mimepull/1.9.3/c55096ff89a27e22c2e081371d0570ac19cc6788/mimepull-1.9.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.tukaani/xz/1.2/9ae2b160dc1d42ee0f0a4871573fbddffbde4815/xz-1.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.tukaani/xz/1.2/bfc66dda280a18ab341b5023248925265c00394c/xz-1.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-ffi/1.0.3/c1963aa1479b9aa169aa38ff60c5005456b51bb8/jnr-ffi-1.0.3-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-ffi/1.0.3/1576f3d1e318806ef6c3cb80741bb31dd408b51/jnr-ffi-1.0.3.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-constants/0.8.4/9fc09fc39658d4848a4eec559035926b591a81ab/jnr-constants-0.8.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-constants/0.8.4/d870c46eefcc73ffc64b70c1e84cf3b62aa73466/jnr-constants-0.8.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-enxio/0.4/64efd43a5ba34d74e807140cc1b19f02cb5db505/jnr-enxio-0.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-enxio/0.4/671445f2bd56f5e583dcea3a5c8c99b10ed77ca0/jnr-enxio-0.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.4/c3ffe3a73348645042fb0b06303b6a3de194494e/httpcore-4.2.4-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.2.4/3b7f38df6de5dd8b500e602ae8c2dd5ee446f883/httpcore-4.2.4.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/61e9f9d11fe3e12ec62f633006e99d75fd7f19c8/commons-codec-1.6-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.6/b7f0fc8f61ecadeb3695f0b9464755eee44374d4/commons-codec-1.6.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jffi/1.2.11/1a9d0383f53140597110c67c6c7cdee615ec5800/jffi-1.2.11-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jffi/1.2.11/a16bcbd28dac61941abebb02ef8358f5fa983893/jffi-1.2.11.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jffi/1.2.11/148a58808b1470149dc8d2f21da1f9f0fff5b5cb/jffi-1.2.11-native.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/4.0/4a33d6206d6d442446a8edbd2b0798ecfaebc229/asm-4.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/4.0/659add6efc75a4715d738e73f07505246edf4d66/asm-4.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/4.0/4a33d6206d6d442446a8edbd2b0798ecfaebc229/asm-commons-4.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-commons/4.0/a839ec6737d2b5ba7d1878e1a596b8f58aa545d9/asm-commons-4.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/4.0/4a33d6206d6d442446a8edbd2b0798ecfaebc229/asm-analysis-4.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/4.0/1c45d52b6f6c638db13cf3ac12adeb56b254cdd7/asm-analysis-4.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/4.0/4a33d6206d6d442446a8edbd2b0798ecfaebc229/asm-tree-4.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-tree/4.0/67bd266cd17adcee486b76952ece4cc85fe248b8/asm-tree-4.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/4.0/4a33d6206d6d442446a8edbd2b0798ecfaebc229/asm-util-4.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-util/4.0/d7a65f54cda284f9706a750c23d64830bb740c39/asm-util-4.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-x86asm/1.0.2/6bb6efcd010567ad80c8bb2bdd5065b30f0f1468/jnr-x86asm-1.0.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.jnr/jnr-x86asm/1.0.2/6936bbd6c5b235665d87bd450f5e13b52d4b48/jnr-x86asm-1.0.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.3.0/cc964b08f8d37e3d8465de923b9e6321107a5429/jackson-annotations-2.3.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.3.0/f5e853a20b60758922453d56f9ae1e64af5cb3da/jackson-annotations-2.3.0.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/edge-server" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="edge-server" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/gradle-ui-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/gradle-core-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/gradle-messaging-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/gradle-wrapper-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/gradle-cli-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/ant-launcher-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/gradle-native-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/gradle-model-core-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/gradle-model-groovy-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/gradle-base-services-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/gradle-base-services-groovy-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/ant-1.9.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/gradle-resources-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/gradle-tooling-api-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/gradle-open-api-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/gradle-launcher-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/gradle-docs-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/groovy-all-2.4.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-javascript-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-plugin-development-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-language-native-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-announce-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-sonar-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-platform-play-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-ear-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-tooling-api-builders-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-test-kit-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-antlr-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-build-comparison-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-testing-native-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-plugins-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-resources-sftp-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-platform-jvm-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-ivy-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-diagnostics-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-plugin-use-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-maven-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-language-java-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-platform-base-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-language-jvm-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-language-scala-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-language-groovy-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-ide-native-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-signing-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-build-init-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-osgi-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-resources-s3-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-dependency-management-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-code-quality-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-reporting-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-platform-native-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-jacoco-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-resources-http-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-publish-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-scala-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-ide-2.9.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.9-bin/ebaspjjvvkuki3ldbldx7hexd/gradle-2.9/lib/plugins/gradle-jetty-2.9.jar" />
+                  <option value="$PROJECT_DIR$/edge-server/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/edge-server/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="externalProjectsViewState">
@@ -1695,15 +1703,15 @@
         <option value="$PROJECT_DIR$/service-registry/build.gradle" />
         <option value="$PROJECT_DIR$/settings.gradle" />
         <option value="$PROJECT_DIR$/service-registry/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/counter-service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/edge-server/build.gradle" />
-        <option value="$PROJECT_DIR$/counter-service/build.gradle" />
-        <option value="$PROJECT_DIR$/counter-service/src/main/java/de/thomasletsch/microservices/CounterApplication.java" />
-        <option value="$PROJECT_DIR$/hello-service/src/main/java/de/thomasletsch/microservices/HelloApplication.java" />
         <option value="$PROJECT_DIR$/hello-service/build.gradle" />
         <option value="$PROJECT_DIR$/hello-service/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/hello-service/src/main/resources/static/js/message.js" />
         <option value="$PROJECT_DIR$/edge-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/hello-service/src/main/java/de/thomasletsch/microservices/HelloApplication.java" />
+        <option value="$PROJECT_DIR$/counter-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/counter-service/build.gradle" />
+        <option value="$PROJECT_DIR$/counter-service/src/main/java/de/thomasletsch/microservices/CounterApplication.java" />
       </list>
     </option>
   </component>
@@ -1781,86 +1789,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="service-registry" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service-registry" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service-registry" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service-registry" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="hello-service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -1904,10 +1832,6 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -1920,150 +1844,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="hello-service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello-service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="static" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="hello-service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edge-server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edge-server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edge-server" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="microservices" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="step3" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="edge-server" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -2115,6 +1895,62 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microservices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="step3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="counter-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microservices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="step3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="counter-service" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="org.jetbrains.plugins.gradle.projectView.GradleTreeStructureProvider$GradleSourceSetDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="microservices" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -2151,6 +1987,7 @@
     <configuration default="false" name="CounterApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="de.thomasletsch.microservices.CounterApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx128M" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <module name="counter-service_main" />
       <envs />
@@ -2159,6 +1996,8 @@
     <configuration default="false" name="ServiceRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="de.thomasletsch.microservices.ServiceRegistryApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx128M" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <module name="service-registry_main" />
       <envs />
       <method />
@@ -2166,6 +2005,7 @@
     <configuration default="false" name="HelloApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="de.thomasletsch.microservices.HelloApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx128M" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <module name="hello-service_main" />
       <envs />
@@ -2174,6 +2014,8 @@
     <configuration default="false" name="EdgeServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="de.thomasletsch.microservices.EdgeServerApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx128M" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <module name="edge-server_main" />
       <envs />
       <method />
@@ -2426,18 +2268,30 @@
       <envs />
       <method />
     </configuration>
-    <list size="5">
+    <configuration default="false" name="CounterApplication 2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" singleton="false">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="de.thomasletsch.microservices.CounterApplication" />
+      <option name="VM_PARAMETERS" value="-Xmx128M" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="counter-service_main" />
+      <envs>
+        <env name="PORT" value="8082" />
+      </envs>
+      <method />
+    </configuration>
+    <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Groovy.build" />
-      <item index="1" class="java.lang.String" itemvalue="Spring Boot.CounterApplication" />
-      <item index="2" class="java.lang.String" itemvalue="Spring Boot.ServiceRegistryApplication" />
-      <item index="3" class="java.lang.String" itemvalue="Spring Boot.HelloApplication" />
-      <item index="4" class="java.lang.String" itemvalue="Spring Boot.EdgeServerApplication" />
+      <item index="1" class="java.lang.String" itemvalue="Spring Boot.CounterApplication 2" />
+      <item index="2" class="java.lang.String" itemvalue="Spring Boot.CounterApplication" />
+      <item index="3" class="java.lang.String" itemvalue="Spring Boot.ServiceRegistryApplication" />
+      <item index="4" class="java.lang.String" itemvalue="Spring Boot.HelloApplication" />
+      <item index="5" class="java.lang.String" itemvalue="Spring Boot.EdgeServerApplication" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Spring Boot.EdgeServerApplication" />
+        <item index="0" class="java.lang.String" itemvalue="Spring Boot.CounterApplication" />
         <item index="1" class="java.lang.String" itemvalue="Spring Boot.HelloApplication" />
-        <item index="2" class="java.lang.String" itemvalue="Spring Boot.CounterApplication" />
+        <item index="2" class="java.lang.String" itemvalue="Spring Boot.EdgeServerApplication" />
         <item index="3" class="java.lang.String" itemvalue="Spring Boot.ServiceRegistryApplication" />
         <item index="4" class="java.lang.String" itemvalue="Groovy.build" />
       </list>
@@ -2458,12 +2312,20 @@
       <updated>1459931178370</updated>
       <workItem from="1459931182258" duration="3721000" />
       <workItem from="1459937729450" duration="3314000" />
-      <workItem from="1460016448425" duration="2713000" />
+      <workItem from="1460016448425" duration="5475000" />
     </task>
+    <task id="LOCAL-00001" summary="Step3: ZUUL working. Hello UI now under /hello to get ZUUL paths correctly mapped.">
+      <created>1460019811329</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1460019811329</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9748000" />
+    <option name="totallyTimeSpent" value="12510000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="116" y="-3" width="1807" height="1087" extended-state="6" />
@@ -2500,6 +2362,10 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Step3: ZUUL working. Hello UI now under /hello to get ZUUL paths correctly mapped." />
+    <option name="LAST_COMMIT_MESSAGE" value="Step3: ZUUL working. Hello UI now under /hello to get ZUUL paths correctly mapped." />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -2533,18 +2399,18 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="20" />
           <folding>
-            <marker date="1460015265046" expanded="true" signature="161:518" placeholder="{...}" />
-            <marker date="1460015265046" expanded="true" signature="180:266" placeholder="{...}" />
-            <marker date="1460015265046" expanded="true" signature="285:516" placeholder="{...}" />
-            <marker date="1460015265046" expanded="true" signature="626:632" placeholder="{" />
-            <marker date="1460015265046" expanded="true" signature="647:649" placeholder="}" />
-            <marker date="1460015265046" expanded="true" signature="664:738" placeholder="{...}" />
-            <marker date="1460015265046" expanded="true" signature="761:869" placeholder="{...}" />
-            <marker date="1460015265046" expanded="true" signature="775:785" placeholder="{" />
-            <marker date="1460015265046" expanded="true" signature="861:867" placeholder="}" />
-            <marker date="1460015265046" expanded="true" signature="884:1247" placeholder="{...}" />
-            <marker date="1460015265046" expanded="true" signature="950:960" placeholder="{" />
-            <marker date="1460015265046" expanded="true" signature="1004:1010" placeholder="}" />
+            <marker date="1460024604482" expanded="true" signature="161:518" placeholder="{...}" />
+            <marker date="1460024604482" expanded="true" signature="180:266" placeholder="{...}" />
+            <marker date="1460024604482" expanded="true" signature="285:516" placeholder="{...}" />
+            <marker date="1460024604482" expanded="true" signature="626:632" placeholder="{" />
+            <marker date="1460024604482" expanded="true" signature="647:649" placeholder="}" />
+            <marker date="1460024604482" expanded="true" signature="664:738" placeholder="{...}" />
+            <marker date="1460024604482" expanded="true" signature="761:869" placeholder="{...}" />
+            <marker date="1460024604482" expanded="true" signature="775:785" placeholder="{" />
+            <marker date="1460024604482" expanded="true" signature="861:867" placeholder="}" />
+            <marker date="1460024604482" expanded="true" signature="884:1247" placeholder="{...}" />
+            <marker date="1460024604482" expanded="true" signature="950:960" placeholder="{" />
+            <marker date="1460024604482" expanded="true" signature="1004:1010" placeholder="}" />
           </folding>
         </state>
       </provider>
@@ -2567,6 +2433,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2607,6 +2474,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2656,6 +2524,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="36" selection-start-line="0" selection-start-column="36" selection-end-line="0" selection-end-column="36" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2673,46 +2542,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/counter-service/src/main/java/de/thomasletsch/microservices/CounterApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service-registry/src/main/java/de/thomasletsch/microservices/ServiceRegistryApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/counter-service/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/counter-service/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding>
-            <marker date="1460015265046" expanded="true" signature="161:518" placeholder="{...}" />
-            <marker date="1460015265046" expanded="true" signature="180:266" placeholder="{...}" />
-            <marker date="1460015265046" expanded="true" signature="285:516" placeholder="{...}" />
-            <marker date="1460015265046" expanded="true" signature="626:632" placeholder="{" />
-            <marker date="1460015265046" expanded="true" signature="647:649" placeholder="}" />
-            <marker date="1460015265046" expanded="true" signature="664:738" placeholder="{...}" />
-            <marker date="1460015265046" expanded="true" signature="761:869" placeholder="{...}" />
-            <marker date="1460015265046" expanded="true" signature="775:785" placeholder="{" />
-            <marker date="1460015265046" expanded="true" signature="861:867" placeholder="}" />
-            <marker date="1460015265046" expanded="true" signature="884:1247" placeholder="{...}" />
-            <marker date="1460015265046" expanded="true" signature="950:960" placeholder="{" />
-            <marker date="1460015265046" expanded="true" signature="1004:1010" placeholder="}" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2735,20 +2569,6 @@
             <marker date="1460016254582" expanded="true" signature="1004:1010" placeholder="}" />
             <marker date="1460016254582" expanded="true" signature="1285:1295" placeholder="{" />
             <marker date="1460016254582" expanded="true" signature="1344:1350" placeholder="}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello-service/src/main/java/de/thomasletsch/microservices/HelloApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="22" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <marker date="1460016035886" expanded="true" signature="47:501" placeholder="..." />
-            <marker date="1460016035886" expanded="true" signature="503:564" placeholder="@{...}" />
-            <marker date="1460016035886" expanded="true" signature="766:961" placeholder="{...}" />
-            <marker date="1460016035886" expanded="false" signature="1005:1016" placeholder=" { " />
-            <marker date="1460016035886" expanded="false" signature="1068:1074" placeholder=" }" />
           </folding>
         </state>
       </provider>
@@ -2827,7 +2647,75 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-          <folding />
+          <folding>
+            <marker date="1460019735082" expanded="true" signature="16:20" placeholder="..." />
+            <marker date="1460019735082" expanded="true" signature="54:65" placeholder="..." />
+            <marker date="1460019735082" expanded="true" signature="112:117" placeholder="..." />
+            <marker date="1460019735082" expanded="true" signature="163:206" placeholder="..." />
+            <marker date="1460019735082" expanded="true" signature="255:264" placeholder="..." />
+            <marker date="1460019735082" expanded="true" signature="284:289" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hello-service/src/main/java/de/thomasletsch/microservices/HelloApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+          <folding>
+            <marker date="1460023608974" expanded="true" signature="47:744" placeholder="..." />
+            <marker date="1460023608974" expanded="true" signature="746:822" placeholder="@{...}" />
+            <marker date="1460023608974" expanded="true" signature="1018:1214" placeholder="{...}" />
+            <marker date="1460023608974" expanded="true" signature="1220:1243" placeholder="@{...}" />
+            <marker date="1460023608974" expanded="true" signature="1275:1286" placeholder=" { " />
+            <marker date="1460023608974" expanded="true" signature="1312:1318" placeholder=" }" />
+            <marker date="1460023608974" expanded="false" signature="1362:1373" placeholder=" { " />
+            <marker date="1460023608974" expanded="false" signature="1425:1431" placeholder=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counter-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <folding>
+            <marker date="1460023732070" expanded="true" signature="33:48" placeholder="..." />
+            <marker date="1460023732070" expanded="true" signature="65:77" placeholder="..." />
+            <marker date="1460023732070" expanded="true" signature="117:136" placeholder="..." />
+            <marker date="1460023732070" expanded="true" signature="182:225" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counter-service/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-107">
+          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+          <folding>
+            <marker date="1460024604482" expanded="true" signature="161:518" placeholder="{...}" />
+            <marker date="1460024604482" expanded="true" signature="180:266" placeholder="{...}" />
+            <marker date="1460024604482" expanded="true" signature="285:516" placeholder="{...}" />
+            <marker date="1460024604482" expanded="true" signature="626:632" placeholder="{" />
+            <marker date="1460024604482" expanded="true" signature="647:649" placeholder="}" />
+            <marker date="1460024604482" expanded="true" signature="664:738" placeholder="{...}" />
+            <marker date="1460024604482" expanded="true" signature="761:869" placeholder="{...}" />
+            <marker date="1460024604482" expanded="true" signature="775:785" placeholder="{" />
+            <marker date="1460024604482" expanded="true" signature="861:867" placeholder="}" />
+            <marker date="1460024604482" expanded="true" signature="884:1247" placeholder="{...}" />
+            <marker date="1460024604482" expanded="true" signature="950:960" placeholder="{" />
+            <marker date="1460024604482" expanded="true" signature="1004:1010" placeholder="}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/counter-service/src/main/java/de/thomasletsch/microservices/CounterApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="52" selection-start-line="23" selection-start-column="52" selection-end-line="23" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
