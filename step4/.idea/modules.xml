@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/counter-service/counter-service.iml" filepath="$PROJECT_DIR$/.idea/modules/counter-service/counter-service.iml" group="counter-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/counter-service/counter-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/counter-service/counter-service_main.iml" group="counter-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/counter-service/counter-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/counter-service/counter-service_test.iml" group="counter-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edge-server/edge-server.iml" filepath="$PROJECT_DIR$/.idea/modules/edge-server/edge-server.iml" group="edge-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edge-server/edge-server_main.iml" filepath="$PROJECT_DIR$/.idea/modules/edge-server/edge-server_main.iml" group="edge-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/edge-server/edge-server_test.iml" filepath="$PROJECT_DIR$/.idea/modules/edge-server/edge-server_test.iml" group="edge-server" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-service/hello-service.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-service/hello-service.iml" group="hello-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-service/hello-service_main.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-service/hello-service_main.iml" group="hello-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hello-service/hello-service_test.iml" filepath="$PROJECT_DIR$/.idea/modules/hello-service/hello-service_test.iml" group="hello-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservices.iml" filepath="$PROJECT_DIR$/.idea/modules/microservices.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-registry/service-registry.iml" filepath="$PROJECT_DIR$/.idea/modules/service-registry/service-registry.iml" group="service-registry" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-registry/service-registry_main.iml" filepath="$PROJECT_DIR$/.idea/modules/service-registry/service-registry_main.iml" group="service-registry" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/service-registry/service-registry_test.iml" filepath="$PROJECT_DIR$/.idea/modules/service-registry/service-registry_test.iml" group="service-registry" />
+    </modules>
+  </component>
+</project>

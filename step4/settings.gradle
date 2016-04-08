@@ -1,0 +1,6 @@
+rootProject.name = 'microservices'
+include 'service-registry'
+include 'edge-server'
+include 'hello-service'
+include 'counter-service'
+
