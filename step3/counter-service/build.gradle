@@ -23,7 +23,7 @@ applicationDefaultJvmArgs = [
 ]
 
 distDocker {
-    exposePort 8080
+    exposePort 8081
 }
 
 repositories {
@@ -44,13 +44,5 @@ dependencies {
     compile("org.springframework.boot:spring-boot-starter-jetty")
     compile("org.springframework.boot:spring-boot-starter-actuator")
     compile("org.springframework.cloud:spring-cloud-starter-eureka")
-    compile("org.springframework.cloud:spring-cloud-starter-hystrix")
-    compile("org.springframework.cloud:spring-cloud-netflix-hystrix-dashboard")
-    compile("org.springframework.boot:spring-boot-starter-data-rest") {
-        exclude module: "commons-logging:commons-logging"
-    }
     testCompile("junit:junit")
 }
-
-
-
