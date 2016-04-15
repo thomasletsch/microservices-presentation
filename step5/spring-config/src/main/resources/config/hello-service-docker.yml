@@ -1,0 +1,4 @@
+# example only
+server:
+  port: ${PORT:8088}
+  context-path: /hello
